@@ -15,13 +15,13 @@
         </a>
     </div>
     <div class="linform">
-        
+       
         <h1>Log In Form </h1>
-        <p>(Food organization)</p>
-        <form action="login1.php" method="post">
-        Phone Number: <input type="text" id="phn" name="phn"><br><br>
-        Password: <input type="password" id="pword" name="pword"><br><br>
-        <input type="submit" value="OK" class="ok">  
+        <p>(Social organization)</p>
+        <form action="login2.php" method="post">
+             Phone Number: <input type="text" id="phn" name="phn"><br><br>
+             Password: <input type="password" id="pword" name="pword"><br><br>
+            <input type="submit" value="OK" class="ok"> 
         
     </form>
 

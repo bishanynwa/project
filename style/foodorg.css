@@ -4,16 +4,12 @@ body{
     text-align: center;
 
 }
-.suform{
+.entryform{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
     color: blanchedalmond;
     justify-content: space-between;
     text-align: center;
-
-}
-.logo img{
-    width: 150px;
 }
 .ok{
     width: 100px;
@@ -28,17 +24,6 @@ body{
     box-shadow: 0 6px 20px -5px rgba(0,0,0,0.4);
     cursor: pointer;
 }
-.lin{
-    width: 100px;
-    height: 40px;
-    border: none;
-    background: #09044e;
-    color: #fff;
-    font-size: 22px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    border-radius: 40px;
-    text-align: center;
-    box-shadow: 0 6px 20px -5px rgba(0,0,0,0.4);
-    cursor: pointer;
+.logo img{
+    width: 150px;
 }
-
